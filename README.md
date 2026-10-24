@@ -45,12 +45,6 @@ Building beautiful, useful & user-friendly mobile applications.
 ---
 
 
-### 📱 Projects
-Explore my repositories to see my coding journey and latest projects.
-
-🔗 [View All My Repositories](https://github.com/Mamun426?tab=repositories)
-
----
 
 ## 📊 GitHub Statistics
 
