@@ -23,8 +23,7 @@ Building beautiful, useful & user-friendly mobile applications.
 ## 👨‍💻 About Me
 
 - 📱 Interested in Flutter & Mobile App Development
-- 💻 Building projects with Dart and Flutter
-- 🚌 Working on **Go Route** — an offline bus route finder
+- 💻 Building projects with Dart and Flutter And Kotlin
 - 🧠 Learning clean code, OOP and software development
 - 🎯 Goal: Become a professional software developer
 - ⚡ Always learning, building and improving
